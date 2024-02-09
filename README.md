@@ -6,4 +6,5 @@
 
 | Date | Logs |
 | ---- | ---- |
-| Feb 8 | Learn iOS Development |
+| Feb 8 | iOS Dev |
+| Feb 9 | Android Jetpack Compose |
