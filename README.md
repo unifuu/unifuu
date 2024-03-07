@@ -9,4 +9,5 @@
 | Mar 3 | ... |
 | Mar 4 | Android Unity |
 | Mar 5 | Android Go React |
-| Mar 6 | Android Go iOS |
+| Mar 6 | Android Go |
+| Mar 7 | iOS |
