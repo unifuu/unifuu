@@ -18,4 +18,4 @@
 | Mar 12 | Android Go React |
 | Mar 13 | Android |
 | Mar 14 | Android Go React |
-| Mar 15 | iOS |
+| Mar 15 | iOS Go |
