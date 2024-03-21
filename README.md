@@ -24,4 +24,4 @@
 | Mar 18 | Android Python |
 | Mar 19 | Android |
 | Mar 20 | Unity |
-| Mar 21 | Android |
+| Mar 21 | Android Go React |
