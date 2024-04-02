@@ -4,7 +4,8 @@
 
 | Date | Log |
 | ---- | --- |
-| Apr 1 | Python Unity |
+| Apr 1 | Python |
+| Apr 2 | Android iOS Java |
 
 ### 2K24-3
 
