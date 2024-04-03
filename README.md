@@ -6,7 +6,7 @@
 | ---- | --- |
 | Apr 1 | Python |
 | Apr 2 | Android Python |
-| Apr 3 | Android iOS Python |
+| Apr 3 | Android Python |
 
 ### 2K24-3
 
