@@ -5,7 +5,8 @@
 | Date | Log |
 | ---- | --- |
 | Apr 1 | Python |
-| Apr 2 | Android iOS Java |
+| Apr 2 | Android Python |
+| Apr 3 | Android iOS Python |
 
 ### 2K24-3
 
