@@ -8,7 +8,7 @@
 | Apr 2 | Android Python |
 | Apr 3 | Android Python |
 | Apr 4 | iOS Python |
-| Apr 5 | Android Python |
+| Apr 5 | Android Go Python React |
 
 ### 2K24-3
 
