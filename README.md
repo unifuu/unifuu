@@ -10,7 +10,7 @@
 | Apr 4 | iOS Python |
 | Apr 5 | Android Go Python React |
 | Apr 6 | Unity |
-| APR 7 | Unity |
+| Apr 7 | Unity |
 
 ### 2K24-3
 
