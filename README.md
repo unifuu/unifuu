@@ -17,7 +17,8 @@
 | Apr 11 | Python |
 | Apr 12 | ... |
 | Apr 13 | Unity |
-| Apr 14 | Unity |
+| Apr 14 | ... |
+| Apr 15 | Android |
 
 ### 2K24-3
 
