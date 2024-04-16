@@ -19,7 +19,7 @@
 | Apr 13 | Unity |
 | Apr 14 | ... |
 | Apr 15 | Android Go |
-| Apr 16 | Android |
+| Apr 16 | Android Go React |
 
 ### 2K24-3
 
