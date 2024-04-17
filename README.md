@@ -20,7 +20,7 @@
 | Apr 14 | ... |
 | Apr 15 | Android Go |
 | Apr 16 | Android Go React |
-| Apr 17 | Android |
+| Apr 17 | Android Python |
 
 ### 2K24-3
 
@@ -40,7 +40,7 @@
 | Mar 12 | Android Go React |
 | Mar 13 | Android |
 | Mar 14 | Android Go React |
-| Mar 15 | iOS Go Python |
+| Mar 15 | Go iOS Python |
 | Mar 16 | Go React |
 | Mar 17 | Python |
 | Mar 18 | Android Python |
