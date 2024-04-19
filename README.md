@@ -21,7 +21,8 @@
 | Apr 15 | Android Go |
 | Apr 16 | Android Go React |
 | Apr 17 | Android |
-| Apr 18 | iOS |
+| Apr 18 | ... |
+| Apr 18 | Android |
 
 ### 2K24-3
 
