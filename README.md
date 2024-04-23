@@ -26,7 +26,7 @@
 | Apr 20 | Unity |
 | Apr 21 | Unity |
 | Apr 22 | Android iOS |
-| Apr 23 | Android Go iOS React |
+| Apr 23 | Android iOS React |
 
 ### 2K24-3
 
