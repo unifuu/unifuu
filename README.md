@@ -1,8 +1,8 @@
-## 楓
+# Log
 
-### 2K24-4
+## 2K24-4
 
-| Date | Log |
+| Date | Activities |
 | ---- | --- |
 | Apr 1 | Python |
 | Apr 2 | Android Python |
@@ -29,9 +29,9 @@
 | Apr 23 | Android iOS React |
 | Apr 24 | Android iOS |
 
-### 2K24-3
+## 2K24-3
 
-| Date | Log |
+| Date | Activities |
 | ---- | --- |
 | Mar 1 | Go React |
 | Mar 2 | Android |
