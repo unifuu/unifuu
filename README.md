@@ -1,5 +1,11 @@
 # Log
 
+## 2K24-5
+
+| Date | Activities |
+| ---- | --- |
+| May 1 | Android iOS |
+
 ## 2K24-4
 
 | Date | Activities |
