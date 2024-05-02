@@ -5,6 +5,7 @@
 | Date | Activities |
 | ---- | --- |
 | May 1 | Android iOS |
+| May 2 | Android |
 
 ## 2K24-4
 
