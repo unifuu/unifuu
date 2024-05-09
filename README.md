@@ -2,20 +2,21 @@
 
 ## 2K24-5
 
-| Date | Activities |
+| Date | Activity |
 | ---- | --- |
-| May 1 | Android iOS |
-| May 2 | Android |
-| May 3 | ... |
-| May 4 | Unity |
-| May 5 | Unity |
-| May 6 | Unity |
-| May 7 | Android Unity |
-| May 8 | Go |
+| 1 | Android iOS |
+| 2 | Android |
+| 3 | ... |
+| 4 | Unity |
+| 5 | Unity |
+| 6 | Unity |
+| 7 | Android Unity |
+| 8 | Go |
+| 9 | Android Go |
 
 ## 2K24-4
 
-| Date | Activities |
+| Date | Activity |
 | ---- | --- |
 | Apr 1 | Python |
 | Apr 2 | Android Python |
@@ -50,7 +51,7 @@
 
 ## 2K24-3
 
-| Date | Activities |
+| Date | Activity |
 | ---- | --- |
 | Mar 1 | Go React |
 | Mar 2 | Android |
