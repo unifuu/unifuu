@@ -17,7 +17,7 @@
 | 11 | ... |
 | 12 | ... |
 | 13 | Android |
-| 14 | Android |
+| 14 | Android Go |
 
 ## 2K24-4
 
